@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="columntransformation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/columntransformation_jar</output-path>
+    <root id="archive" name="columntransformation.jar">
+      <element id="module-output" name="src" />
+    </root>
+  </artifact>
+</component>
